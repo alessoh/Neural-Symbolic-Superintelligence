@@ -83,8 +83,7 @@ The NEXUS-Transformer architecture consists of six core components that work tog
    - Counterfactual Reasoning for exploring alternative scenarios
    - Interactive Explanations allowing users to probe the system's reasoning
 
-![NEXUS Architecture Diagram](assets/nexus_architecture.png)
-
+![Alt text](./Nexustransformer.png)
 ### Key Innovations
 
 The NEXUS-Transformer architecture introduces several innovations:
