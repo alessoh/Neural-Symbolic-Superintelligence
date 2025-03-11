@@ -1,0 +1,8 @@
+numpy
+tensorflow
+mathplotlib
+pandas
+sklearn.metrics 
+networkx
+math
+typing
