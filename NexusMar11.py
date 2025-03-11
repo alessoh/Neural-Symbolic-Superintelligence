@@ -18,9 +18,9 @@ random.seed(42)
 torch.manual_seed(42)
 np.random.seed(42)
 
-# ===========================
+# ============================
 # 1. Enhanced Neural Component
-# ===========================
+# ============================
 class ScaledDotProductAttention(nn.Module):
     def __init__(self, dropout=0.1):
         super().__init__()
