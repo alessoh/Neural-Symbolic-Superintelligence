@@ -108,7 +108,7 @@ For each patient, the system:
 
 4. **Explanation**: Provides a detailed explanation of the reasoning process, including symptoms detected, rules applied, and confidence assessment.
 
-Here are some promising applicationsbeside medicine:
+Here are some promising applications beside medicine:
 
 ## Scientific Discovery and Research
 
