@@ -268,11 +268,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you use NEXUS in your research, please cite our paper:
 
-```bibtex
-@article{alesso2025nexus,
-  title={NEXUS-Transformer: A Neural-Symbolic Architecture for Interpretable and Aligned AI Systems},
+
+  title={NEXUS-Transformer: A Neural-Symbolic Architecture for Interpretable and Aligned AI Systems}, (https://www.ai-hive.net/_files/ugd/44aedb_96ebd7c4f5a14282be2e3d4613f921ce.pdf)
   author={Alesso, H. P.},
-  journal={arXiv preprint},
   year={2025}
 }
 ```
